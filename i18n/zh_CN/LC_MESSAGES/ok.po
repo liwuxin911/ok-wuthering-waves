@@ -1282,3 +1282,63 @@ msgstr "点击B进入背包，在过滤器中选择需要强化的声骸，并�
 
 msgid "游戏与okww语言必须为简体/繁体中文,必须16:9分辨率,使用1600x900以上分辨率, 勾选需要的, 没勾的都会自动合成"
 msgstr "游戏与okww语言必须为简体/繁体中文，分辨率必须为16:9且不低于1600x900。勾选需要保留的声骸，未勾选的会自动合成。"
+
+msgid "Floating Window"
+msgstr "悬浮窗"
+
+msgid "Floating Window enabled"
+msgstr "已启用悬浮窗"
+
+msgid "Show a compact always-on-top panel above the game window"
+msgstr "在游戏窗口上方显示一个紧凑的置顶悬浮面板"
+
+msgid "Idle"
+msgstr "空闲"
+
+msgid "Start"
+msgstr "开始"
+
+msgid "Pause"
+msgstr "暂停"
+
+msgid "Stop"
+msgstr "停止"
+
+msgid "Main Window"
+msgstr "主窗口"
+
+msgid "Paused"
+msgstr "已暂停"
+
+msgid "Game Window Disconnected"
+msgstr "游戏窗口未连接"
+
+msgid "Paused: Game Window Must Be in Front"
+msgstr "已暂停：游戏窗口必须位于最前面"
+
+msgid "Running"
+msgstr "运行中"
+
+msgid "Waiting for task to be enabled"
+msgstr "等待任务启用"
+
+msgid "Trigger Tasks"
+msgstr "触发器任务"
+
+msgid "OK-WW Floating Window"
+msgstr "OK-WW 悬浮窗"
+
+msgid "Close"
+msgstr "关闭"
+
+msgid "Tasks"
+msgstr "任务"
+
+msgid "Triggers"
+msgstr "触发器"
+
+msgid "Collapse"
+msgstr "缩小"
+
+msgid "Expand"
+msgstr "展开"
